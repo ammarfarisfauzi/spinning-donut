@@ -1,4 +1,4 @@
-# Spinning donut in python
+# Spinning donut in pythonn
 
 Program Python sederhana untuk membuat animasi donat berputar di terminal menggunakan karakter ASCII. Proyek ini mendemonstrasikan penggunaan matematika dan rendering terminal untuk mensimulasikan objek 3D yang berputar.
 
